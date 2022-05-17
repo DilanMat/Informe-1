@@ -208,8 +208,15 @@ VIDEO
 
 
 
-CONCLUSIONES	
+CONCLUSIONES
 
+•	Los conceptos leídos en el capitulo 1 y 2 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica y hay que tomarlos muy en cuenta, como uno de los conceptos muy importantes que hay que tener muy en claro es la dirección de la corriente, o como es que se calcula el voltaje y la corriente de manera correcta y es por eso que cada concepto se tiene que analizar de manera rigurosa y dominar el tema.
 
+•	En conclusión, gracias a los mapas conceptuales realizados, se pudo resumir de una mejor manera los temas que se trataron en el libro de Floyd y así amenorar las partes que no son muy importantes, además de que son muy accesibles y incentiva más a leer, ya que, al ver muchos párrafos escritos en un texto, el interés por leer se acorta un poco, es por eso que el uso de estos mentefactos o mapas conceptuales son de gran ayuda para realizar trabajos como este.
+
+•	 Haciendo uso de los conceptos de la electrónica y aplicando las correspondientes formulas vistas en el libro de Floyd, se pudo realizar de manera eficiente los ejercicios planteados en los capítulos 1 y 2, ya que todos los ejercicios tenían una explicación y un ejemplo y eso ayudo mucho para realizar los ejercicios de manera correcta y con calma.
 
 BLIBIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+
