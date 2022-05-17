@@ -120,305 +120,45 @@ Problemas (ejercicios pares)
 
 SECCIÓN 1–2 Notación científica
 
-2.Exprese cada número fraccionario en notación científica:
+Problemas (ejercicios pares)
 
-a)  1/500
+SECCIÓN 1–2 Notación científica
 
-RESPUESTA:
-2X10^(-3)
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/104999420/168787801-b2038f8f-0565-46d3-88c3-489be13769e3.png">
 
-b)   1/2000
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/104999420/168787884-fc22526c-5dd2-4588-8f97-c5162261af07.png">
 
-RESPUESTA: 
-5X10^(-4)  
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/104999420/168787962-68abe155-5f23-4bdb-8ddc-bd508663b8c9.png">
 
-c)  1/(5,000,000)
+<img width="98" alt="image" src="https://user-images.githubusercontent.com/104999420/168788012-a7631b2c-58e0-4305-8b87-eddab0fa1a13.png">
 
-Respuesta:
-2x10^(-7)
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/104999420/168788062-f71eb7e7-5ce3-461d-9324-dced23ed4fe7.png">
 
-4.Exprese cada uno de los números siguientes en notación científica:
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/104999420/168788119-e83545bb-b5f3-4e50-9e8a-cca42cccc9a4.png">
 
-(a) 0.0002
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/104999420/168788236-fc543219-483f-4f72-84ed-e57be44ad39c.png">
 
-Respuesta:
-2x10^(-4)
+<img width="321" alt="image" src="https://user-images.githubusercontent.com/104999420/168788376-c8a09f14-0be0-4e8d-a455-4226cfd7578f.png">
 
-b) 0.6
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/104999420/168788427-514c03b8-f93a-4c47-8b17-3f92d07d3a07.png">
 
-Respuesta: 
-6x10^(-1)
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/104999420/168788635-8067a1ac-f382-47b3-956b-3e20bcadd4e9.png">
 
-c) 7.8x〖10〗^(-2)
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/104999420/168788788-1fee8042-0289-4496-84e8-19d1c515b645.png">
 
-Respuesta:
-0,078
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/104999420/168788926-28975302-b320-457d-9b7a-06380b61560e.png">
 
-6. Exprese cada uno de los números siguientes como un número decimal regular:
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/104999420/168789061-e8cf014a-f9a5-4b62-8693-608926bc10da.png">
 
-(a) 2 x 〖10〗^5
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/104999420/168789210-c0946459-382e-4589-8681-8160fb292d01.png">
 
-Respuesta:
-200.000   
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/104999420/168789303-7581558a-5b1c-4194-b93b-2a30fd803e70.png">
 
-b) 5,4x〖10〗^(-9)
+<img width="357" alt="image" src="https://user-images.githubusercontent.com/104999420/168789923-12cee094-94ee-4894-8240-51c9ba8982d7.png">
 
-Respuesta: 
-0.0000000054
 
-c) 1.0 x〖10〗^1
 
-Respuesta:
-10
 
-8. Exprese cada número de los siguientes como un número decimal regular:
-
-(a) 4,5x〖10〗^(-6)
-
-Respuesta:
-0.0000045  
-
-b) 8x〖10〗^(-9)
-
-Respuesta: 
-0.000000008
-
-c) 4.0x〖10〗^(-12)
-
-Respuesta:
-0.000000000004
-
-10. Efectúe las siguientes sustracciones:
-
-(a) (3.2x〖10〗^12 )– (1.1x〖10〗^12 )
-
-Respuesta:
-(3,2-1,1)  x 10^12=
-2,1 x 10^12
-
-b) (2.6x〖10〗^8 )– (1.3x〖10〗^7 ) 
-
-Respuesta:
-(2.6-0,13)x 10^8=
-2,47 x 10^8
-
-c) (1.5x〖10〗^(-12) )– (8x〖10〗^(-13) )
-
-Respuesta:
-(1,5-0,8)x 10^(-12)=
-0,7 x 10^(-12)
-
-12. Realice las siguientes divisiones
-
-(a) (1.0 x〖10〗^3 )÷ (2.5x〖10〗^2 )
-
-Respuesta:
-(1,0÷2,5)  x (10^3÷10^2 )=
-
-0,4 x (10^(3-2) )=
-0.4x10^1
-
-b) (2.5x〖10〗^(-6) )÷(5.0x〖10〗^(-8) )
-
-Respuesta:
-(2,5÷5,0)  x (10^(-6)÷10^(-8) )=
-0,5 x (10^((-6)-(-8) ) )=
-0.5x10^2
-
-c) (4.2x〖10〗^8 )÷(2x〖10〗^(-5) )
-
-Respuesta:
-(4,2÷2)  x (10^8÷10^(-5) )=
-2.1 x (10^(8-(-5) ) )=
-2,1 x 10^13
-
-
-SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
-
-14. Exprese cada número en notación de ingeniería:
-
-(a) 2,35 x 10^5
-
-Respuesta:
-235,000  
-
-b) 7,32 x 10^7
-
-Respuesta: 
-73,200,000
-
-c) 1,333x〖10〗^9
-
-Respuesta:
-1,333,000,000
-
-16. Exprese cada número en notación de ingeniería:
-
-(a) 9,81 x 10^(-3)
-
-Respuesta:
-0.00981
-
-b) 4,82 x 10^(-4)
-
-Respuesta: 
-0.000482
-
-c) 4,38x〖10〗^(-7)
-
-Respuesta:
-0.000000438
-
-18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería
-
-a) (32 x 〖10〗^(-3) )(56 x 〖10〗^3 )
-
-Respuesta:
-(32*56)  x (10^(-3)*10^3 )=
-1972 x (10^(-3+3) )=
-1972x10^0=
-1,972
-
-b) (1,2 x 10^(-6) )(1,2 x 10^(-6) )
-
-Respuesta:
-(1,2*1,2)  x (10^(-6)*10^(-6) )=
-1,44 x (10^((-6)+(-6) ) )=
-1,44x10^(-12)=
-0.00000000000144
-
-c) 100(55 x 10^(-3) )
-
-Respuesta:
-(100*55)  x 10^(-3)=
-5,500 x 10^(-3)=
-0.0055
-
-20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
-(a) 89,000
-
-Respuesta:
-89 x 10^3
-Ochenta y nueve un mil
-
-b) 4,450,000
-Respuesta: 
-4,45 x 10^0
-
-c) 12,040,000,000,000
-
-Respuesta:
-1,204 x 10^1
-
-22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
-
-(a) 31 x 10^(-3) A 
-
-Respuesta:
-Queda que es 31 miliamperes
-(31,000) mA
-
-b)  5.5 x 10^3 V
-
-Respuesta:
-Queda como 5,500 kilovoltios
-(5,500) kV
-
-c)  20 x 10^12 F
-
-Respuesta:
-Queda como 20 terafarads
-(20,000,000,000,000)TF
-
-24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-
-(a)  2.5 x 10^(-12) A
-
-Respuesta:
- Queda como 2.5 picoamperes 0
-2,5pA
-
-b)  8 x 10^9 Hz
-
-Respuesta:
-8 Gigahertzs o
-8GHz
-
-c)  4.7 x 10^3 Ω
-
-Respuesta:
-4.7 kilohm o
-4,7 k Ω
-
-26. Exprese cada cantidad en notación de ingeniería:
-
-(a)  5 µA
-
-Respuesta:
- 5 x 10^(-6   ) A
-b)   43 mV
-Respuesta:
-43 x 10^(-3)   V
-c)   275 kΩ
-Respuesta:
-275 x 10^3   Ω
-d)  10 MW
-Respuesta:
-10 x 10^6    W
-SECCIÓN 1–4 Conversiones de unidades métricas:
-28. Determine lo siguiente:
-(a) El número de microamperes en 1 miliapere
-1mA→  µA
-1 mA=1 x 10^(-3) A 
-1000 x 10^(-6) A 
- 1000 µA 
-(b) el número de milivolts en 0.05 Kilovolts
-0.05kV→ mV
-1kV= 1000000mV
-0.05 kV*1000000mV=
-50.000mV
-(c) El número de megohms en 0.02 kilohms
-0.02kΩ→MΩ 
-0.02kΩ=0.02 x 10^3 Ω=
-0.00002 x 10^6 Ω=
-0.00002MΩ
-(d) El número de kilowatts en 155 miliwatts
-155 mW→kΩ
-155mW=1.55 x 10^(-3) W=
-0.000155 x 10^3 W=
-0.000155 kW
-
-30. Realice las siguientes operaciones:
-a)  10k Ω  ÷(2.2k Ω +10k Ω  
-Respuesta:
- Nos queda como 2.5 pico Amperes
-2,5pA
-b)   250 mV ÷50 µV
-Respuesta:
-Nos queda como 8 GigaHertzs
-8GHz
-c)  1MV ÷2 kV
-Respuesta:
-Nos queda como 4.7 kiloOhms
-4,7 k Ω
-
-  
-28) Determine lo siguiente
-	El número de microamperes en 1 miliampere 
-a) 1μA×1mA/10000μA= 〖1×10〗^(-4) mA
-	El numero de milivolts en 0.05 kilovolts
-b) 1mV×1kV/(〖1×10〗^(-3) mV)×0.05kV=50kV
-	El numero de megohms en 0.02 kilohms
-1 mΩ×1000kΩ×0,02kΩ=20kΩ
-	El número de kilowatts en 155 miliwatts
-1kw×10^(-6) MW×155MW=〖1.55×10〗^(-4) MW
-30Realice las siguientes operaciones 
-a) 10kΩ÷(2,2kΩ+10kΩ)=10kΩ÷(12,2kΩ)=0.81kΩ
-b) 250mV÷50μV=250mV×(1×10^(-3) μV)/1mV÷50μV=1×10^(-4) μV
-c) 1MW÷2kW=1MW×(1×10^(-6) kW)/1MW÷2kW=5×10^(-7) kW
-
-28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
-resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
 	VIDEO
 
