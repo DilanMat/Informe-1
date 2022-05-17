@@ -156,12 +156,60 @@ SECCIÓN 1–2 Notación científica
 
 <img width="357" alt="image" src="https://user-images.githubusercontent.com/104999420/168789923-12cee094-94ee-4894-8240-51c9ba8982d7.png">
 
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/104999420/168790267-3ace2c73-e117-4bfc-8b30-a28e5792774b.png">
+
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/104999420/168791170-7ddc261c-d5f6-420d-a06a-b18f38a15c3c.png">
+
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/104999420/168791290-f25aee44-4b0a-4153-90e3-35a697c62768.png">
+
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/104999420/168792501-9979fcbe-9c46-4168-93c7-a31a663add0e.png">
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/104999420/168793303-ad380b2f-d42e-4573-bb0e-571f73827fbe.png">
+
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/104999420/168793381-1a577edf-4ae8-4f64-b3e7-b310c096803f.png">
+
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/104999420/168793437-a14f042e-7cf5-4efd-956b-526cc962e0d9.png">
+
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/104999420/168793976-7b163497-3e14-4c5e-bd7f-5197b9fda717.png">
+
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/104999420/168794074-783fd5ba-4a32-4355-8aec-f80faf1b510d.png">
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/104999420/168794242-6d2936e5-67fe-48bb-b1cc-3e49c02ae3af.png">
+
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/104999420/168794353-36b319a0-871b-45da-ae5c-d871ae10e23f.png">
+
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/104999420/168794430-35909e7a-7bd7-46ab-94b4-ccf27f594c5a.png">
+
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/104999420/168795352-220688a6-fb47-44ca-b272-537b9a5f233a.png">
+
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/104999420/168795402-33f1ce19-761d-4980-9010-05b0d5a1c2b8.png">
+
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/104999420/168795480-236d5817-b78f-42bf-b85c-b3e88ff8426c.png">
+
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/104999420/168795548-f835c5d9-ac2e-4503-ab85-c02c0c70f0aa.png">
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/104999420/168795587-2c156884-68f1-405e-8a3a-42c86279e0ac.png">
+
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/104999420/168795635-6784bb3c-56ca-4c0a-8ed7-4323530b4195.png">
+
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/104999420/168796065-bdf3e1f9-02ac-448b-86dc-543ebe304b83.png">
+
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/104999420/168796154-93b1c620-0489-41c2-9ff8-65a92c580076.png">
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/104999420/168796220-0d7a1019-d1e3-401c-822b-cf2a8c631713.png">
+
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/104999420/168796318-0605ab2e-da85-4b9f-b86f-4fc3ed65617a.png">
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/104999420/168796429-cd55a1c3-efe9-4381-96d4-937397bc00fd.png">
+
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/104999420/168796617-560e3289-ea4d-41e6-91a9-601615f6f23d.png">
+
+VIDEO
 
 
 
+CONCLUSIONES	
 
-	VIDEO
 
-	CONCLUSIONES
 
-	BLIBIOGRAFÍA
+BLIBIOGRAFÍA
