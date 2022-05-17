@@ -206,7 +206,7 @@ SECCIÓN 1–2 Notación científica
 
 VIDEO
 
-
+https://youtu.be/X2F_CSipxa4
 
 CONCLUSIONES
 
